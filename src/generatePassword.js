@@ -1,4 +1,3 @@
-import chalk from 'chalk';
 import passwordGenerator from 'password-generator';
 
 export const generatePassword = (type) => {
