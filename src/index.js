@@ -5,7 +5,7 @@ console.log(`${chalk.red.bold('WIP:')} This project is ${chalk.italic.red('Worki
 
 console.log(chalk.green("################"));
 
-const types = ['strong', 'weak', 'medium'];
+const types = ['strong', 'medium', 'weak'];
 
 console.table(
   types

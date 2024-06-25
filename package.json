@@ -4,7 +4,9 @@
   "type": "module",
   "description": "Easy password generator on top of NPM",
   "main": "src/index.js",
+  "repository": "https://github.com/mathiasgheno/create-password",
   "scripts": {
+    "start": "node src/index.js",
     "test": "",
     "create-password": "node src/generatePassword.js"
   },
