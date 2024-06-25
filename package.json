@@ -1,5 +1,5 @@
 {
-  "name": "create-password",
+  "name": "@mathias54/create-password",
   "version": "0.0.1",
   "type": "module",
   "description": "Easy password generator on top of NPM",
