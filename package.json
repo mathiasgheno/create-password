@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node src/index.js",
     "test": "",
-    "create-password": "node src/generatePassword.js"
+    "create-password": "node src/index.js"
   },
   "keywords": [
     "create",
