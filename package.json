@@ -1,6 +1,6 @@
 {
   "name": "@mathiasgheno/create-password",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "description": "Easy password generator on top of NPM",
   "main": "src/index.js",
