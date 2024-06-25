@@ -1,0 +1,21 @@
+{
+  "name": "create-password",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Easy password generator on top of NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "",
+    "create-password": "node src/generatePassword.js"
+  },
+  "keywords": [
+    "create",
+    "password"
+  ],
+  "author": "Mathias Gheno <mathiasgheno@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "password-generator": "^2.3.2"
+  }
+}
