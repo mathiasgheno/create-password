@@ -6,9 +6,9 @@
   "main": "src/index.js",
   "repository": "https://github.com/mathiasgheno/create-password",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "src/index.js",
     "test": "",
-    "create-password": "node src/index.js"
+    "create-password": "src/index.js"
   },
   "keywords": [
     "create",
@@ -16,6 +16,9 @@
   ],
   "author": "Mathias Gheno <mathiasgheno@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "create-password": "src/index.js"
+  },
   "dependencies": {
     "chalk": "^5.3.0",
     "password-generator": "^2.3.2"
