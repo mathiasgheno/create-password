@@ -1,6 +1,6 @@
 # Create Password
 
-Zero-config password generator on top of NPM. Just open your terminal, text and it's done. 
+Zero-config password generator on top of NPM / NPX. Just open your terminal, text and it's done. 
 
 ## How to Use 
 
@@ -14,6 +14,12 @@ npm create @mathiasgheno/password
 
 ```shell
 npm create password
+```
+
+...Or with you perfer you can use NPX
+
+```shell
+npx create-password
 ```
 
 By default, the CLI will give you three option with pre-config options: Strong, Medium and Weak.
